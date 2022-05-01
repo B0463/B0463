@@ -1,23 +1,24 @@
-## sr. b.0463
+# B.0463
+
 <div align="center">
-  <a href="https://github.com/B0463">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B0463&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0463&layout=compact&langs_count=7&theme=dracula"/>
+    <a href="https://github.com/B0463">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B0463&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0463&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="b-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="b-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="b-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="b-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="b-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="b-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="b-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right" alt="b-pic" height="150" style="border-radius:50px;" src="https://cdn-124.anonfiles.com/Z6IbV5b8yb/8627cd24-1651379748/pdr676x676.jpeg">
+    <img align="center" alt="B-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="B-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="B-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="B-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="B-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" alt="B-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="B-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="right" alt="B-pic" height="150" style="border-radius:25px;" src="https://cdn-123.anonfiles.com/Z6IbV5b8yb/14107c67-1651381960/pdr676x676.jpeg">
 </div>
-  
-  ##
- 
+
+##
+
 <div> 
-  <a href="http://hkimpr.ddns.net/" target="_blank"><img src="https://cdn-142.anonfiles.com/57V8V8b4y1/f239f035-1651380197/hklogoFGH.png" target="_blank"></a>
-  ![Snake animation](https://github.com/B0463/github-contribution-grid-snake.svg)
+    <a href="http://hkimpr.ddns.net" target="_blank"><img src="https://cdn-141.anonfiles.com/V691W6b4y7/255b048c-1651382520/hklogoFGH_small.png">
 </div>
