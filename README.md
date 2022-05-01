@@ -14,11 +14,11 @@
     <img align="center" alt="B-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="B-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="B-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="right" alt="B-pic" height="150" style="border-radius:25px;" src="https://cdn-123.anonfiles.com/Z6IbV5b8yb/14107c67-1651381960/pdr676x676.jpeg">
+    <img align="right" alt="B-pic" height="150" style="border-radius:25px;" src="https://ibb.co/QY7v2jx">
 </div>
 
 ##
 
 <div> 
-    <a href="http://hkimpr.ddns.net" target="_blank"><img src="https://cdn-141.anonfiles.com/V691W6b4y7/255b048c-1651382520/hklogoFGH_small.png">
+    <a href="http://hkimpr.ddns.net" target="_blank"><img src="https://ibb.co/JnRSkkx">
 </div>
